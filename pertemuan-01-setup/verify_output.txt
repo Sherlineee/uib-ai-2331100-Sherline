@@ -1,0 +1,22 @@
+numpy: OK, version = 2.1.3
+pandas: OK, version = 2.3.2
+matplotlib: OK, version = 3.10.6
+seaborn: OK, version = 0.13.2
+sklearn: OK, version = 1.7.2
+skfuzzy: OK, version = 0.5.0
+cv2: OK, version = 4.12.0
+jupyter: OK, version = 1.1.1
+jupyterlab: OK, version = 4.4.7
+ipykernel: OK, version = 6.30.1
+joblib: OK, version = 1.5.2
+dill: OK, version = 0.4.0
+nltk: OK, version = 3.9.1
+spacy: OK, version = 3.8.7
+tensorflow: OK, version = 2.19.1
+torch: OK, version = 2.8.0
+torchvision: OK, version = 0.23.0
+tensorflow_datasets: OK, version = 4.9.9
+transformers: OK, version = 4.56.2
+flask: OK, version = 3.1.2
+fastapi: OK, version = 0.117.1
+Python: 3.10.18 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:08:55) [MSC v.1929 64 bit (AMD64)]
